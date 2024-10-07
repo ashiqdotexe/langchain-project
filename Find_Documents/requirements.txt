@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+langchain_openai
+langchain 
+langchain-google-firestore 
+firestore 
+langchain_google_vertexai
+sentence_transformers 
+pinecone
+langchain_pinecone
+langchain_huggingface
+#pip install -r requirements.txt
